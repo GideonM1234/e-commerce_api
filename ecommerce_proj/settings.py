@@ -35,9 +35,9 @@ DEBUG = True
 #     "127.0.0.1"
 # ]
 
-# CSRF_TRUSTED_ORIGINS =  [
-#     "https://doze-unpaved-renewable.ngrok-free.dev"
-# ]
+CSRF_TRUSTED_ORIGINS =  [
+    "e-commerceapi-production-706d.up.railway.app"
+]
 
 ALLOWED_HOSTS = ["*"]
 
