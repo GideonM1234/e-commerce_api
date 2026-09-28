@@ -36,7 +36,7 @@ DEBUG = True
 # ]
 
 CSRF_TRUSTED_ORIGINS =  [
-    "e-commerceapi-production-706d.up.railway.app"
+    "https://e-commerceapi-production-706d.up.railway.app/"
 ]
 
 ALLOWED_HOSTS = ["*"]
